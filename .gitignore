@@ -4,3 +4,4 @@ nohup.out
 data
 logs
 mnist_dnn.ipynb
+__pycache__
